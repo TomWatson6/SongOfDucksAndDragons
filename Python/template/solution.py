@@ -3,7 +3,7 @@ input = open("input.txt").read().strip()
 input2 = open("input2.txt").read().strip()
 input3 = open("input3.txt").read().strip()
 
-def parse_input(input: str):
+def parse(input: str):
     return ""
 
 def part1(input: str) -> int:
